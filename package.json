@@ -1,0 +1,19 @@
+{
+  "name": "book-review-cite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gasper324/Book-Review-Cite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gasper324/Book-Review-Cite/issues"
+  },
+  "homepage": "https://github.com/gasper324/Book-Review-Cite#readme"
+}

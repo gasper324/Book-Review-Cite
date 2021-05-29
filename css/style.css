@@ -1,0 +1,49 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+header1 {
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  border: dotted 20px;
+  width: 300px;
+  margin: 20px auto 25px auto;
+}
+
+header2 {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  font-style: bold;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.stars {
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.seriesreview {
+  display: flex;
+}
+.seriesreview__text {
+  font-size: 20px;
+  text-indent: 40px;
+  width: 370px;
+  margin: 15px 40px 15px 5px;
+}
+.seriesreview__img {
+  background-color: #eae3c9;
+  border-radius: 15px;
+}
+
+header3 {
+  font-size: 25px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+/*# sourceMappingURL=style.css.map */
