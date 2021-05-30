@@ -46,4 +46,14 @@ header3 {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
+a {
+  color: #ffffff;
+}
+a:active {
+  color: #000000;
+}
+a:hover {
+  color: #005353;
+}
+
 /*# sourceMappingURL=style.css.map */

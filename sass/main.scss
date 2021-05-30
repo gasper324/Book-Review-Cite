@@ -1,7 +1,7 @@
 $background: #000000;
 $text: #ffffff;
 $coverbackground: #eae3c9;
-
+$link: #005353;
 body{
     background-color: $background;
     color: $text;
@@ -43,4 +43,13 @@ header2{
 header3{
     font-size: 25px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a {
+    color: $text;
+    &:active{
+    color: $background;
+    }
+    &:hover{
+        color: $link;
+    }
 }
